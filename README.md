@@ -63,3 +63,4 @@ This needs to be enabled at start or when building optimized version.
 
 ## Database
 
+Created a docker-compose file to run keycloack in development mode with a PostreSQL as data storage: `docker-compose up`
